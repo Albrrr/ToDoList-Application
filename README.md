@@ -4,7 +4,12 @@ A simple java implementation of a To-Do list application
 ## Demonstration:
 
 
-https://github.com/user-attachments/assets/3d03e13a-0fb0-4007-9cd8-757fec7de20c
+https://github.com/user-attachments/assets/2c9e1671-d949-490c-bfc9-73cec3413f82
+
+
+
+
+
 
 
 
